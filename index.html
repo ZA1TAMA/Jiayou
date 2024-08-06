@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Jiayou</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="styles.css" rel="stylesheet">
+    <link href="assets/dragonball.png" type="image/x-icon" rel="icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <main>
+      <div id="menu">
+        <div class="title-bar">
+          <h1 class="title roman-text">Jiayou Mandarin</h1>
+        </div>
+        <div class="menu-items">
+          <h2 class="packs roman-text">HSK I</h2>
+          <h2 class="packs roman-text">HSK II</h2>
+          <h2 class="packs roman-text">HSK III</h2>
+        </div>
+        <div class="menu-footer">
+          <p class="roman-text">©Dark Nebula</p>  
+        </div>
+        <img id="menu-BG"src="assets/images/journey-black.png">
+        </div>
+      <img id="BG" class="BG"src="assets/images/journey.png">
+      <header>
+        <div class="navigation">
+          <img src="assets/menu.svg" alt="menu-button" id="menu-button" onclick="menuAnimation()">
+        </div>
+        <h2 class="roman-text">HSK I</h2>
+      </header>
+      <div class="card-box">
+        <div class="card" id="card" onclick="flipcard()">
+          <div class="card-border-inner" id="flip">
+            <div class="card-inner" id="card-inner">
+             <div class="card-front">
+               <p class="character" id="charFront">空</p>
+             </div>
+             <div class="card-back">
+               <p class="character" id="charBack">空</p>
+               <div class="card-bottom">
+                 <p class="pinyin" id="pinyin">(kōng)</p>
+                 <p class="translation" id="translation">empty</p>
+               </div>
+             </div>
+           </div> 
+          </div>
+        </div>  
+      </div>    
+      <footer>
+        <button id="next" class="roman-text" onclick="nextCharacter()">Next</button>
+      </footer>
+    </main>
+    <script src="index.js"></script>
+  </body>
+</html>
