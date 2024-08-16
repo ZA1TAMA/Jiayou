@@ -1,217 +1,129 @@
-:root {
-    --light: rgb(238, 240, 233);
-}
 html {
-    color: black;
+    font-family: "STIX Two Text", sans-serif;
 }
 body {
-    width: 100%;
-    height: 100vh;
-    background-color: var(--light);
+    background-color: rgb(148, 96, 59);
     margin: 0;
-    overflow: hidden;
+    height: 100vh;
 }
-.roman-text {
-    font-family: "Poppins", sans-serif;
+.hanzi {
+    font-family: "Noto Sans SC", sans-serif;
 }
-main {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    overflow: hidden;
-}
-.BG  {
-    position: fixed;
-    top: 350px;
-    left: -50px;
-    opacity: 36%;
-    z-index: -2;
-}
-#menu-BG {
-    mix-blend-mode: screen;
-    opacity: 100%;
-    position: fixed;
-    top: 250px;
-    left: -10px;
-}
+/*HEADER*/
 header {
-    width: 100%;
-    height: 25%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-header h2 {
-   margin-top: 15%;
-   margin-bottom: 0;
-}
-#menu {
-    position: fixed;
-    width: 100%;
-    height: 100vh;
-    z-index: 3;
-    background-color: rgb(254, 83, 57);
-    transform: translateX(100%);
-    transition: 0.5s ease;
-    overflow: hidden;
-}
-.title-bar {
+    background-color: rgb(20, 24, 27);
+    height: 72px;
+    color: white; 
+    padding: 0 6%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
-.title-bar {
-    width: 100%;
-    height: 80px;
-    background-color: rgb(39, 37, 78);
-    padding-left: 3%;
+header h1 {
+    font-weight: 600;
+    
 }
-.title {
-    margin: 0;
-    color: white;
-    font-weight: 500;
-}
-.menu-items {
-    color: white;
-    padding-left: 3%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-.packs {
-    cursor: pointer;
-    transition: 0.3s ease;
-    margin: 10px;
-}
-.packs:hover {
-    filter: brightness(20%);
-}
-.menu-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    font-weight: 300;
-    color: white;
-    opacity: 72%;
-}
-.navigation {
-    width: 100%;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 30px;
-    padding-right: 30px;
-}
-#menu-button {
-    position: absolute;
-    z-index: 4;
-    height: 40px;
-    cursor: pointer;
-    transition: 0.3s ease;
-}
-
-h2 {
-    font-weight: 500;
-}
-.card-box {
-    width: 100%;
+#menuButton {
     height: 50%;
-    display: flex;
-    align-items: center;
 }
-footer {
-    width: 100%;
-    height: 25%;
+@media only screen and (min-width: 800px) {
+    #menuButton {
+    display: none;
+}
+}
+/*MAIN*/
+main {
+    height: 100vh;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    perspective: 5000px;
+}
+/*HOME*/
+.packList {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.pack {
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    cursor: pointer;
+    display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 50px;
+    border: solid 4px gray;
+    transition: transform 0.3s ease;
 }
-footer p{
-    position:  absolute;
-    bottom: 0;
-    opacity: 70%;
+.pack:hover {
+    transform: scale(104%);
 }
-.title {
-    text-align: center;
+/*PACK*/
+h2 {
+    color: white;
 }
 .card {
-    margin: 0 auto;
-    min-width: 250px;
+    background-color: transparent;
     width: 300px;
-    max-width: 350px;
     height: 400px;
-    perspective: 1000px;
-    cursor: pointer;
-}
-.card-border-inner {
-    width: 100%;
-    height: 100%;
-    background-color: white;
-    transform-style: preserve-3d;
-    transition: transform 0.5s;
-    box-shadow: 0px 0px 10px hsl(0, 0%, 60%);
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.card-inner {
-    width: 90%;
-    height: 92%;
-    position: relative;
-    border: 2px solid rgba(0, 0, 0, .2);
-    border-radius: 10px;
-    border-
-    background-color: white;
-    transform-style: preserve-3d;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.card-front, .card-back{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    backface-visibility: hidden;
-}
-
-.card-front {
-    transform: rotateY(360deg);
-}
-
-.card-back {
-    transform: rotateY(180deg);
-}
-.character {
-    font-size: 6em;
-    font-family: "Noto Sans SC", sans-serif;
-    text-align: center;
-    margin: 50px 0;
-   
-}
-.card-bottom {
-    font-size: 20px;
-    text-align: center;
-    font-family: "Poppins", sans-serif;  
-}
-.pinyin, .translation {
-    margin: 10px;
-}
-
-button {
-    width: 100px;
-    margin: 10px auto;
-    font-size: 20px;
-    padding: 5px 30px;
-    border-radius: 10px;
-    color: black;
-    border: none;
     cursor: pointer;
     transition: 0.3s ease;
+    transform-style: preserve-3d;
+    border: solid 4px gray;
+    box-sizing: border-box;
+}
+.cardFront {
+    height: 100%;
+    width: 100%;
+    position: absolute;
     background-color: white;
-    box-shadow: 0px 0px 10px hsl(0, 0%, 60%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(0deg);
+    backface-visibility: hidden;
+}
+.character {
+    font-size: 100px;
+}
+.cardBack {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+    text-align: center;
+    font-size: 25px;
+}
+.cardBack p {
+    margin: 5px;
+}
+button {
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    border: solid 4px gray;
+    box-sizing: border-box;
+    font-family: "Stix Two Text", serif;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+/*FOOTER*/
+footer {
+    height: 72px;
+    width: 100%;
+    background-color: rgb(20, 24, 27);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
 }

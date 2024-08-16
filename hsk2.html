@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Jiayou Mandarin - HSK II</title>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link href="styles.css" rel="stylesheet">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+            <link href="assets/icons/yinyang.png" type="image/x-icon" rel="icon">
+        </head>
+        <body onload="getData()">
+            <header>
+                <h1>Jiayou Mandarin</h1>
+                <img id="menuButton" src="assets/icons/menu.svg" alt="menu-button">
+            </header>
+            <main>
+                <h2>HSK II</h2>
+                <p id="pack-ID"style="display: none">hsk2</p>
+                <div id="card" class="card" onclick="flipCard()"><!--CARD-->
+                    <div class="cardFront">
+                        <p id="character" class="character hanzi">空</p>
+                    </div>
+                    <div class="cardBack">
+                        <p id="pinyin">kōng</p>
+                        <p id="english">empty</p>
+                    </div>
+                </div>
+                <button onclick="nextCard()">
+                    Next
+                </button>
+            </main>
+            <footer>
+                <p>©Dark Nebula</p>
+            </footer>
+            <script type="text/javascript" src="pack.js"></script>
+            <script type="application/json" src="packs.json"></script>
+        </body>
+    </html>

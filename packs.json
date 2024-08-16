@@ -1,0 +1,3614 @@
+{
+  "hsk1" : [
+  {
+    "Number": 1,
+    "chinese": "爱",
+    "pinyin": "ài",
+    "english": "love"
+  },
+  {
+    "Number": 2,
+    "chinese": "八",
+    "pinyin": "bā",
+    "english": "eight"
+  },
+  {
+    "Number": 3,
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "english": "Dad"
+  },
+  {
+    "Number": 4,
+    "chinese": "杯子",
+    "pinyin": "bēizi",
+    "english": "cup; glass"
+  },
+  {
+    "Number": 5,
+    "chinese": "北京",
+    "pinyin": "Běijīng",
+    "english": "Beijing"
+  },
+  {
+    "Number": 6,
+    "chinese": "本",
+    "pinyin": "běn",
+    "english": "measure word for books"
+  },
+  {
+    "Number": 7,
+    "chinese": "不客气",
+    "pinyin": "bú kèqi",
+    "english": "you're welcome; don't be polite"
+  },
+  {
+    "Number": 8,
+    "chinese": "不",
+    "pinyin": "bù",
+    "english": "no; not"
+  },
+  {
+    "Number": 9,
+    "chinese": "菜",
+    "pinyin": "cài",
+    "english": "dish (type of food); vegetables"
+  },
+  {
+    "Number": 10,
+    "chinese": "茶",
+    "pinyin": "chá",
+    "english": "tea"
+  },
+  {
+    "Number": 11,
+    "chinese": "吃",
+    "pinyin": "chī",
+    "english": "eat"
+  },
+  {
+    "Number": 12,
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "english": "taxi; cab"
+  },
+  {
+    "Number": 13,
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "english": "make a phone call"
+  },
+  {
+    "Number": 14,
+    "chinese": "大",
+    "pinyin": "dà",
+    "english": "big; large"
+  },
+  {
+    "Number": 15,
+    "chinese": "的",
+    "pinyin": "de",
+    "english": "indicates possession, like adding 's to a noun"
+  },
+  {
+    "Number": 16,
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "english": "a dot; a little; o'clock"
+  },
+  {
+    "Number": 17,
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "english": "computer"
+  },
+  {
+    "Number": 18,
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "english": "television; TV"
+  },
+  {
+    "Number": 19,
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "english": "movie; film"
+  },
+  {
+    "Number": 20,
+    "chinese": "东西",
+    "pinyin": "dōngxi",
+    "english": "things; stuff"
+  },
+  {
+    "Number": 21,
+    "chinese": "都",
+    "pinyin": "dōu",
+    "english": "all; both"
+  },
+  {
+    "Number": 22,
+    "chinese": "读",
+    "pinyin": "dú",
+    "english": "to read; to study"
+  },
+  {
+    "Number": 23,
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "english": "sorry"
+  },
+  {
+    "Number": 24,
+    "chinese": "多",
+    "pinyin": "duō",
+    "english": "many"
+  },
+  {
+    "Number": 25,
+    "chinese": "多少",
+    "pinyin": "duōshao",
+    "english": "how much?; how many?"
+  },
+  {
+    "Number": 26,
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "english": "son"
+  },
+  {
+    "Number": 27,
+    "chinese": "二",
+    "pinyin": "èr",
+    "english": "two"
+  },
+  {
+    "Number": 28,
+    "chinese": "饭店",
+    "pinyin": "fàndiàn",
+    "english": "restaurant; hotel"
+  },
+  {
+    "Number": 29,
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "english": "airplane"
+  },
+  {
+    "Number": 30,
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "english": "minute; (measure word for time)"
+  },
+  {
+    "Number": 31,
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "english": "happy; glad"
+  },
+  {
+    "Number": 32,
+    "chinese": "个",
+    "pinyin": "ge",
+    "english": "general measure word"
+  },
+  {
+    "Number": 33,
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "english": "work; a job"
+  },
+  {
+    "Number": 34,
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "english": "dog"
+  },
+  {
+    "Number": 35,
+    "chinese": "汉语",
+    "pinyin": "Hànyǔ",
+    "english": "chinese language"
+  },
+  {
+    "Number": 36,
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "english": "good"
+  },
+  {
+    "Number": 37,
+    "chinese": "号",
+    "pinyin": "hào",
+    "english": "number; day of a month"
+  },
+  {
+    "Number": 38,
+    "chinese": "喝",
+    "pinyin": "hē",
+    "english": "to drink"
+  },
+  {
+    "Number": 39,
+    "chinese": "和",
+    "pinyin": "hé",
+    "english": "and; with"
+  },
+  {
+    "Number": 40,
+    "chinese": "很",
+    "pinyin": "hěn",
+    "english": "very; quite"
+  },
+  {
+    "Number": 41,
+    "chinese": "后面",
+    "pinyin": "hòumian",
+    "english": "back; behind"
+  },
+  {
+    "Number": 42,
+    "chinese": "回",
+    "pinyin": "huí",
+    "english": "to return; to reply; to go back"
+  },
+  {
+    "Number": 43,
+    "chinese": "会",
+    "pinyin": "huì",
+    "english": "know how to"
+  },
+  {
+    "Number": 44,
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "english": "how many; several; a few"
+  },
+  {
+    "Number": 45,
+    "chinese": "家",
+    "pinyin": "jiā",
+    "english": "family; home"
+  },
+  {
+    "Number": 46,
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "english": "to be called"
+  },
+  {
+    "Number": 47,
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "english": "today"
+  },
+  {
+    "Number": 48,
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "english": "nine"
+  },
+  {
+    "Number": 49,
+    "chinese": "开",
+    "pinyin": "kāi",
+    "english": "to open; to start; to operate (a vehicle)"
+  },
+  {
+    "Number": 50,
+    "chinese": "看",
+    "pinyin": "kàn",
+    "english": "see; look at; to watch"
+  },
+  {
+    "Number": 51,
+    "chinese": "看见",
+    "pinyin": "kànjiàn",
+    "english": "see; catch sight of"
+  },
+  {
+    "Number": 52,
+    "chinese": "块",
+    "pinyin": "kuài",
+    "english": "lump; piece; sum of money"
+  },
+  {
+    "Number": 53,
+    "chinese": "来",
+    "pinyin": "lái",
+    "english": "come; arrive; ever since; next"
+  },
+  {
+    "Number": 54,
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "english": "teacher"
+  },
+  {
+    "Number": 55,
+    "chinese": "了",
+    "pinyin": "le",
+    "english": "indicates a completed or finished action"
+  },
+  {
+    "Number": 56,
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "english": "cold"
+  },
+  {
+    "Number": 57,
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "english": "inside; chinese mile (~.5 km)"
+  },
+  {
+    "Number": 58,
+    "chinese": "六",
+    "pinyin": "liù",
+    "english": "six"
+  },
+  {
+    "Number": 59,
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "english": "mom; mum"
+  },
+  {
+    "Number": 60,
+    "chinese": "吗",
+    "pinyin": "ma",
+    "english": "indicates a yes/no question (added to a statement)"
+  },
+  {
+    "Number": 61,
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "english": "to buy"
+  },
+  {
+    "Number": 62,
+    "chinese": "猫",
+    "pinyin": "māo",
+    "english": "cat"
+  },
+  {
+    "Number": 63,
+    "chinese": "没关系",
+    "pinyin": "méi guānxi",
+    "english": "it doesn't matter; never mind"
+  },
+  {
+    "Number": 64,
+    "chinese": "没有",
+    "pinyin": "méiyǒu",
+    "english": "not have; there is not"
+  },
+  {
+    "Number": 65,
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "english": "(cooked) rice"
+  },
+  {
+    "Number": 66,
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "english": "tomorrow"
+  },
+  {
+    "Number": 67,
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "english": "name"
+  },
+  {
+    "Number": 68,
+    "chinese": "哪",
+    "pinyin": "nǎa",
+    "english": "which; how"
+  },
+  {
+    "Number": 69,
+    "chinese": "哪儿",
+    "pinyin": "nǎr",
+    "english": "where? (Beijing accent)"
+  },
+  {
+    "Number": 70,
+    "chinese": "那",
+    "pinyin": "nà",
+    "english": "that; then"
+  },
+  {
+    "Number": 71,
+    "chinese": "呢",
+    "pinyin": "ne",
+    "english": "indicates a question; how about...?;"
+  },
+  {
+    "Number": 72,
+    "chinese": "能",
+    "pinyin": "néng",
+    "english": "can; be able"
+  },
+  {
+    "Number": 73,
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "english": "you (singular)"
+  },
+  {
+    "Number": 74,
+    "chinese": "年",
+    "pinyin": "nián",
+    "english": "year"
+  },
+  {
+    "Number": 75,
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "english": "daughter"
+  },
+  {
+    "Number": 76,
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "english": "friend"
+  },
+  {
+    "Number": 77,
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "english": "pretty; beautiful"
+  },
+  {
+    "Number": 78,
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "english": "apple"
+  },
+  {
+    "Number": 79,
+    "chinese": "七",
+    "pinyin": "qī",
+    "english": "seven"
+  },
+  {
+    "Number": 80,
+    "chinese": "钱",
+    "pinyin": "qián",
+    "english": "money; coin"
+  },
+  {
+    "Number": 81,
+    "chinese": "前面",
+    "pinyin": "qiánmiàn",
+    "english": "in front"
+  },
+  {
+    "Number": 82,
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "english": "please; invite; to treat someone to something"
+  },
+  {
+    "Number": 83,
+    "chinese": "去",
+    "pinyin": "qù",
+    "english": "go; to leave"
+  },
+  {
+    "Number": 84,
+    "chinese": "热",
+    "pinyin": "rè",
+    "english": "heat; hot"
+  },
+  {
+    "Number": 85,
+    "chinese": "人",
+    "pinyin": "rén",
+    "english": "person; man; people"
+  },
+  {
+    "Number": 86,
+    "chinese": "认识",
+    "pinyin": "rènshi",
+    "english": "recognize; know (a person)"
+  },
+  {
+    "Number": 87,
+    "chinese": "三",
+    "pinyin": "sān",
+    "english": "three"
+  },
+  {
+    "Number": 88,
+    "chinese": "商店",
+    "pinyin": "shāngdiàn",
+    "english": "shop; store"
+  },
+  {
+    "Number": 89,
+    "chinese": "上",
+    "pinyin": "shàng",
+    "english": "above; up"
+  },
+  {
+    "Number": 90,
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "english": "late morning (before noon)"
+  },
+  {
+    "Number": 91,
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "english": "few; little"
+  },
+  {
+    "Number": 92,
+    "chinese": "谁",
+    "pinyin": "shéi",
+    "english": "who"
+  },
+  {
+    "Number": 93,
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "english": "what? (replaces the noun to turn a statement into a question)"
+  },
+  {
+    "Number": 94,
+    "chinese": "十",
+    "pinyin": "shí",
+    "english": "ten"
+  },
+  {
+    "Number": 95,
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "english": "time"
+  },
+  {
+    "Number": 96,
+    "chinese": "是",
+    "pinyin": "shì",
+    "english": "be; is; are; am"
+  },
+  {
+    "Number": 97,
+    "chinese": "书",
+    "pinyin": "shū",
+    "english": "book; letter"
+  },
+  {
+    "Number": 98,
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "english": "water"
+  },
+  {
+    "Number": 99,
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "english": "fruit"
+  },
+  {
+    "Number": 100,
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "to sleep; go to bed"
+  },
+  {
+    "Number": 101,
+    "chinese": "说",
+    "pinyin": "shuō",
+    "english": "speak"
+  },
+  {
+    "Number": 102,
+    "chinese": "四",
+    "pinyin": "sì",
+    "english": "four"
+  },
+  {
+    "Number": 103,
+    "chinese": "岁",
+    "pinyin": "suì",
+    "english": "years old; age"
+  },
+  {
+    "Number": 104,
+    "chinese": "他",
+    "pinyin": "tā",
+    "english": "he; him"
+  },
+  {
+    "Number": 105,
+    "chinese": "她",
+    "pinyin": "tā",
+    "english": "she"
+  },
+  {
+    "Number": 106,
+    "chinese": "太",
+    "pinyin": "tài",
+    "english": "too (much)"
+  },
+  {
+    "Number": 107,
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "english": "weather"
+  },
+  {
+    "Number": 108,
+    "chinese": "听",
+    "pinyin": "tīng",
+    "english": "listen; hear"
+  },
+  {
+    "Number": 109,
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "english": "fellow student; schoolmate"
+  },
+  {
+    "Number": 110,
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "english": "hello (on the phone)"
+  },
+  {
+    "Number": 111,
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "english": "I; me"
+  },
+  {
+    "Number": 112,
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "english": "we; us"
+  },
+  {
+    "Number": 113,
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "english": "five"
+  },
+  {
+    "Number": 114,
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "english": "to like"
+  },
+  {
+    "Number": 115,
+    "chinese": "下",
+    "pinyin": "xià",
+    "english": "fall; below"
+  },
+  {
+    "Number": 116,
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "english": "afternoon"
+  },
+  {
+    "Number": 117,
+    "chinese": "下雨",
+    "pinyin": "xiàyǔ",
+    "english": "to rain"
+  },
+  {
+    "Number": 118,
+    "chinese": "先生",
+    "pinyin": "xiānsheng",
+    "english": "Mr.; Sir"
+  },
+  {
+    "Number": 119,
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "english": "now"
+  },
+  {
+    "Number": 120,
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "english": "think; believe; suppose; would like to"
+  },
+  {
+    "Number": 121,
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "english": "small; young"
+  },
+  {
+    "Number": 122,
+    "chinese": "小姐",
+    "pinyin": "xiǎojie",
+    "english": "young lady; miss; Ms."
+  },
+  {
+    "Number": 123,
+    "chinese": "些",
+    "pinyin": "xiē",
+    "english": "some; few; several"
+  },
+  {
+    "Number": 124,
+    "chinese": "写",
+    "pinyin": "xiě",
+    "english": "to write; to compose"
+  },
+  {
+    "Number": 125,
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "english": "thank you"
+  },
+  {
+    "Number": 126,
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "english": "week"
+  },
+  {
+    "Number": 127,
+    "chinese": "学生",
+    "pinyin": "xuésheng",
+    "english": "student"
+  },
+  {
+    "Number": 128,
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "english": "learn; to study"
+  },
+  {
+    "Number": 129,
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "english": "school"
+  },
+  {
+    "Number": 130,
+    "chinese": "一",
+    "pinyin": "yī",
+    "english": "one; once; a"
+  },
+  {
+    "Number": 131,
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "english": "clothes"
+  },
+  {
+    "Number": 132,
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "english": "doctor"
+  },
+  {
+    "Number": 133,
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "english": "hospital"
+  },
+  {
+    "Number": 134,
+    "chinese": "椅子",
+    "pinyin": "yǐzi",
+    "english": "chair"
+  },
+  {
+    "Number": 135,
+    "chinese": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "english": "a bit; a few"
+  },
+  {
+    "Number": 136,
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "english": "have"
+  },
+  {
+    "Number": 137,
+    "chinese": "月",
+    "pinyin": "yuè",
+    "english": "moon; month"
+  },
+  {
+    "Number": 138,
+    "chinese": "在",
+    "pinyin": "zài",
+    "english": "at; on; in; indicates an action in progress"
+  },
+  {
+    "Number": 139,
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "english": "goodbye; see you later"
+  },
+  {
+    "Number": 140,
+    "chinese": "怎么",
+    "pinyin": "zěnme",
+    "english": "how?"
+  },
+  {
+    "Number": 141,
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "english": "how about?; how is/was it?"
+  },
+  {
+    "Number": 142,
+    "chinese": "这",
+    "pinyin": "zhè",
+    "english": "this"
+  },
+  {
+    "Number": 143,
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "english": "China"
+  },
+  {
+    "Number": 144,
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "english": "noon; midday"
+  },
+  {
+    "Number": 145,
+    "chinese": "住",
+    "pinyin": "zhù",
+    "english": "to live; reside; to stop"
+  },
+  {
+    "Number": 146,
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "english": "table; desk"
+  },
+  {
+    "Number": 147,
+    "chinese": "字",
+    "pinyin": "zì",
+    "english": "letter; character"
+  },
+  {
+    "Number": 148,
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "english": "yesterday"
+  },
+  {
+    "Number": 149,
+    "chinese": "做",
+    "pinyin": "zuò",
+    "english": "do; make"
+  },
+  {
+    "Number": 150,
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "english": "sit"
+  }
+],
+  "hsk2" : [
+  {
+    "Number": 1,
+    "chinese": "吧",
+    "pinyin": "ba",
+    "english": "particle indicating polite suggestion; | onomatopoeia | bar (serving drinks, providing internet access, etc.)"
+  },
+  {
+    "Number": 2,
+    "chinese": "白",
+    "pinyin": "bái",
+    "english": "white; snowy; pure; bright; empty (Kangxi radical 106)"
+  },
+  {
+    "Number": 3,
+    "chinese": "百",
+    "pinyin": "bǎi",
+    "english": "hundred"
+  },
+  {
+    "Number": 4,
+    "chinese": "帮助",
+    "pinyin": "bāngzhù",
+    "english": "help; assist; aid"
+  },
+  {
+    "Number": 5,
+    "chinese": "报纸",
+    "pinyin": "bàozhǐ",
+    "english": "newspaper"
+  },
+  {
+    "Number": 6,
+    "chinese": "比",
+    "pinyin": "bǐ",
+    "english": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks"
+  },
+  {
+    "Number": 7,
+    "chinese": "别",
+    "pinyin": "bié",
+    "english": "don't do something; don't | depart; | other; difference; distinguish"
+  },
+  {
+    "Number": 8,
+    "chinese": "宾馆",
+    "pinyin": "bīnguǎn",
+    "english": "guesthouse; hotel"
+  },
+  {
+    "Number": 9,
+    "chinese": "长",
+    "pinyin": "cháng, zhǎng",
+    "english": "long; length | grow; chief (Kangxi radical 168)"
+  },
+  {
+    "Number": 10,
+    "chinese": "唱歌",
+    "pinyin": "chànggē",
+    "english": "sing (a song)"
+  },
+  {
+    "Number": 11,
+    "chinese": "出",
+    "pinyin": "chū",
+    "english": "go out; occur"
+  },
+  {
+    "Number": 12,
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "english": "to wear; put on; penetrate"
+  },
+  {
+    "Number": 13,
+    "chinese": "次",
+    "pinyin": "cì",
+    "english": "(mw for number of times of occurrence); nth; order"
+  },
+  {
+    "Number": 14,
+    "chinese": "从",
+    "pinyin": "cóng",
+    "english": "from; obey; observe"
+  },
+  {
+    "Number": 15,
+    "chinese": "错",
+    "pinyin": "cuò",
+    "english": "mistake; error; blunder; miss an opportunity"
+  },
+  {
+    "Number": 16,
+    "chinese": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "english": "play basketball"
+  },
+  {
+    "Number": 17,
+    "chinese": "大家",
+    "pinyin": "dàjiā",
+    "english": "everyone"
+  },
+  {
+    "Number": 18,
+    "chinese": "到",
+    "pinyin": "dào",
+    "english": "arrive (at a place); until (a time)"
+  },
+  {
+    "Number": 19,
+    "chinese": "得",
+    "pinyin": "de",
+    "english": "(complement particle)"
+  },
+  {
+    "Number": 20,
+    "chinese": "等",
+    "pinyin": "děng",
+    "english": "to wait; rank; equal; etc."
+  },
+  {
+    "Number": 21,
+    "chinese": "弟弟",
+    "pinyin": "dìdi",
+    "english": "younger brother"
+  },
+  {
+    "Number": 22,
+    "chinese": "第一",
+    "pinyin": "dìyī",
+    "english": "first; number 1"
+  },
+  {
+    "Number": 23,
+    "chinese": "懂",
+    "pinyin": "dǒng",
+    "english": "understand; know"
+  },
+  {
+    "Number": 24,
+    "chinese": "对",
+    "pinyin": "duì",
+    "english": "correct; a pair; to face; be opposite; to; towards"
+  },
+  {
+    "Number": 25,
+    "chinese": "房间",
+    "pinyin": "fángjiān",
+    "english": "room"
+  },
+  {
+    "Number": 26,
+    "chinese": "非常",
+    "pinyin": "fēicháng",
+    "english": "extremely; extraordinary; very"
+  },
+  {
+    "Number": 27,
+    "chinese": "服务员",
+    "pinyin": "fúwùyuán",
+    "english": "waiter/waitress; server; attendant"
+  },
+  {
+    "Number": 28,
+    "chinese": "高",
+    "pinyin": "gāo",
+    "english": "high; tall (Kangxi radical 189)"
+  },
+  {
+    "Number": 29,
+    "chinese": "告诉",
+    "pinyin": "gàosu",
+    "english": "to tell; inform"
+  },
+  {
+    "Number": 30,
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "english": "older brother"
+  },
+  {
+    "Number": 31,
+    "chinese": "给",
+    "pinyin": "gěi",
+    "english": "to give; to grant; (passive particle)"
+  },
+  {
+    "Number": 32,
+    "chinese": "公共汽车",
+    "pinyin": "gōnggòng qìchē",
+    "english": "(public) bus"
+  },
+  {
+    "Number": 33,
+    "chinese": "公司",
+    "pinyin": "gōngsī",
+    "english": "company; corporation"
+  },
+  {
+    "Number": 34,
+    "chinese": "贵",
+    "pinyin": "guì",
+    "english": "expensive; noble; honorable; Guizhou province (abbreviation)"
+  },
+  {
+    "Number": 35,
+    "chinese": "过",
+    "pinyin": "guò",
+    "english": "to pass; to cross; go over; (indicates a past experience)"
+  },
+  {
+    "Number": 36,
+    "chinese": "还",
+    "pinyin": "hái",
+    "english": "still; yet; in addition; even"
+  },
+  {
+    "Number": 37,
+    "chinese": "孩子",
+    "pinyin": "háizi",
+    "english": "child; children; son or daughter"
+  },
+  {
+    "Number": 38,
+    "chinese": "好吃",
+    "pinyin": "hǎochī",
+    "english": "tasty"
+  },
+  {
+    "Number": 39,
+    "chinese": "黑",
+    "pinyin": "hēi",
+    "english": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)"
+  },
+  {
+    "Number": 40,
+    "chinese": "红",
+    "pinyin": "hóng",
+    "english": "red; symbol of success; bonus; popular"
+  },
+  {
+    "Number": 41,
+    "chinese": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "english": "train station"
+  },
+  {
+    "Number": 42,
+    "chinese": "机场",
+    "pinyin": "jīchǎng",
+    "english": "airport; airfield"
+  },
+  {
+    "Number": 43,
+    "chinese": "鸡蛋",
+    "pinyin": "jīdàn",
+    "english": "(chicken) egg"
+  },
+  {
+    "Number": 44,
+    "chinese": "件",
+    "pinyin": "jiàn",
+    "english": "(mw for things, clothes, and items)"
+  },
+  {
+    "Number": 45,
+    "chinese": "教室",
+    "pinyin": "jiàoshì",
+    "english": "classroom"
+  },
+  {
+    "Number": 46,
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "english": "older sister"
+  },
+  {
+    "Number": 47,
+    "chinese": "介绍",
+    "pinyin": "jièshào",
+    "english": "to introduce; recommend; introduction"
+  },
+  {
+    "Number": 48,
+    "chinese": "进",
+    "pinyin": "jìn",
+    "english": "enter; come in"
+  },
+  {
+    "Number": 49,
+    "chinese": "近",
+    "pinyin": "jìn",
+    "english": "near; close (to)"
+  },
+  {
+    "Number": 50,
+    "chinese": "就",
+    "pinyin": "jiù",
+    "english": "then; at once; just; only; with regard to"
+  },
+  {
+    "Number": 51,
+    "chinese": "觉得",
+    "pinyin": "juéde",
+    "english": "feel; think"
+  },
+  {
+    "Number": 52,
+    "chinese": "咖啡",
+    "pinyin": "kāfēi",
+    "english": "coffee"
+  },
+  {
+    "Number": 53,
+    "chinese": "开始",
+    "pinyin": "kāishǐ",
+    "english": "begin; to start; beginning"
+  },
+  {
+    "Number": 54,
+    "chinese": "考试",
+    "pinyin": "kǎoshì",
+    "english": "test; exam; to give or take a test"
+  },
+  {
+    "Number": 55,
+    "chinese": "可能",
+    "pinyin": "kěnéng",
+    "english": "possible; maybe"
+  },
+  {
+    "Number": 56,
+    "chinese": "可以",
+    "pinyin": "kěyǐ",
+    "english": "can; may; possible; okay"
+  },
+  {
+    "Number": 57,
+    "chinese": "课",
+    "pinyin": "kè",
+    "english": "class; subject; lesson; course"
+  },
+  {
+    "Number": 58,
+    "chinese": "快",
+    "pinyin": "kuài",
+    "english": "fast; quick; swift"
+  },
+  {
+    "Number": 59,
+    "chinese": "快乐",
+    "pinyin": "kuàilè",
+    "english": "happy"
+  },
+  {
+    "Number": 60,
+    "chinese": "累",
+    "pinyin": "lèi",
+    "english": "tired"
+  },
+  {
+    "Number": 61,
+    "chinese": "离",
+    "pinyin": "lí",
+    "english": "leave; depart; go away; apart from"
+  },
+  {
+    "Number": 62,
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "english": "two; 2; both; (unit of weight equal to 50 grams)"
+  },
+  {
+    "Number": 63,
+    "chinese": "零",
+    "pinyin": "líng",
+    "english": "zero; remnant"
+  },
+  {
+    "Number": 64,
+    "chinese": "路",
+    "pinyin": "lù",
+    "english": "road; path; journey; route"
+  },
+  {
+    "Number": 65,
+    "chinese": "旅游",
+    "pinyin": "lǚyóu",
+    "english": "trip; journey; tour"
+  },
+  {
+    "Number": 66,
+    "chinese": "卖",
+    "pinyin": "mài",
+    "english": "to sell"
+  },
+  {
+    "Number": 67,
+    "chinese": "慢",
+    "pinyin": "màn",
+    "english": "slow"
+  },
+  {
+    "Number": 68,
+    "chinese": "忙",
+    "pinyin": "máng",
+    "english": "busy"
+  },
+  {
+    "Number": 69,
+    "chinese": "每",
+    "pinyin": "měi",
+    "english": "each; every"
+  },
+  {
+    "Number": 70,
+    "chinese": "妹妹",
+    "pinyin": "mèimei",
+    "english": "younger sister"
+  },
+  {
+    "Number": 71,
+    "chinese": "门",
+    "pinyin": "mén",
+    "english": "door; opening; gate (Kangxi radical 169)"
+  },
+  {
+    "Number": 72,
+    "chinese": "面条",
+    "pinyin": "miàntiáo",
+    "english": "noodles"
+  },
+  {
+    "Number": 73,
+    "chinese": "男",
+    "pinyin": "nán",
+    "english": "male"
+  },
+  {
+    "Number": 74,
+    "chinese": "您",
+    "pinyin": "nín",
+    "english": "you (polite)"
+  },
+  {
+    "Number": 75,
+    "chinese": "牛奶",
+    "pinyin": "niúnǎi",
+    "english": "cow's milk"
+  },
+  {
+    "Number": 76,
+    "chinese": "女",
+    "pinyin": "nǚ",
+    "english": "woman; female (Kangxi radical 38)"
+  },
+  {
+    "Number": 77,
+    "chinese": "旁边",
+    "pinyin": "pángbiān",
+    "english": "side, beside"
+  },
+  {
+    "Number": 78,
+    "chinese": "跑步",
+    "pinyin": "pǎobù",
+    "english": "to run; to jog"
+  },
+  {
+    "Number": 79,
+    "chinese": "便宜",
+    "pinyin": "piányi",
+    "english": "cheap"
+  },
+  {
+    "Number": 80,
+    "chinese": "票",
+    "pinyin": "piào",
+    "english": "ticket; bank note; a vote"
+  },
+  {
+    "Number": 81,
+    "chinese": "妻子",
+    "pinyin": "qīzi",
+    "english": "wife"
+  },
+  {
+    "Number": 82,
+    "chinese": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "get out of bed"
+  },
+  {
+    "Number": 83,
+    "chinese": "千",
+    "pinyin": "qiān",
+    "english": "one thousand"
+  },
+  {
+    "Number": 84,
+    "chinese": "铅笔",
+    "pinyin": "qiānbǐ",
+    "english": "pencil"
+  },
+  {
+    "Number": 85,
+    "chinese": "晴",
+    "pinyin": "qíng",
+    "english": "clear; fine (as of weather)"
+  },
+  {
+    "Number": 86,
+    "chinese": "去年",
+    "pinyin": "qùnián",
+    "english": "last year"
+  },
+  {
+    "Number": 87,
+    "chinese": "让",
+    "pinyin": "ràng",
+    "english": "ask; let; yield"
+  },
+  {
+    "Number": 88,
+    "chinese": "日",
+    "pinyin": "rì",
+    "english": "sun; day; date; time (Kangxi radical 72)"
+  },
+  {
+    "Number": 89,
+    "chinese": "上班",
+    "pinyin": "shàngbān",
+    "english": "go to work; be on duty"
+  },
+  {
+    "Number": 90,
+    "chinese": "身体",
+    "pinyin": "shēntǐ",
+    "english": "health; (human) body"
+  },
+  {
+    "Number": 91,
+    "chinese": "生病",
+    "pinyin": "shēngbìng",
+    "english": "get sick; fall ill"
+  },
+  {
+    "Number": 92,
+    "chinese": "生日",
+    "pinyin": "shēngrì",
+    "english": "birthday"
+  },
+  {
+    "Number": 93,
+    "chinese": "时间",
+    "pinyin": "shíjiān",
+    "english": "time; period"
+  },
+  {
+    "Number": 94,
+    "chinese": "事情",
+    "pinyin": "shìqing",
+    "english": "matter; affair; thing; business"
+  },
+  {
+    "Number": 95,
+    "chinese": "手表",
+    "pinyin": "shǒubiǎo",
+    "english": "wristwatch"
+  },
+  {
+    "Number": 96,
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "english": "mobile (cell) phone"
+  },
+  {
+    "Number": 97,
+    "chinese": "说话",
+    "pinyin": "shuōhuà",
+    "english": "to talk; speak"
+  },
+  {
+    "Number": 98,
+    "chinese": "送",
+    "pinyin": "sòng",
+    "english": "deliver; to carry; to give; send"
+  },
+  {
+    "Number": 99,
+    "chinese": "虽然",
+    "pinyin": "suīrán",
+    "english": "although; even though"
+  },
+  {
+    "Number": 100,
+    "chinese": "但是",
+    "pinyin": "dànshì",
+    "english": "but; however"
+  },
+  {
+    "Number": 101,
+    "chinese": "它",
+    "pinyin": "tā",
+    "english": "it"
+  },
+  {
+    "Number": 102,
+    "chinese": "踢足球",
+    "pinyin": "tīzúqiú",
+    "english": "to play football/soccer"
+  },
+  {
+    "Number": 103,
+    "chinese": "题",
+    "pinyin": "tí",
+    "english": "topic; subject; question on a test or assignment"
+  },
+  {
+    "Number": 104,
+    "chinese": "跳舞",
+    "pinyin": "tiàowǔ",
+    "english": "to dance"
+  },
+  {
+    "Number": 105,
+    "chinese": "外",
+    "pinyin": "wài",
+    "english": "outer; outside; in addition; foreign"
+  },
+  {
+    "Number": 106,
+    "chinese": "完",
+    "pinyin": "wán",
+    "english": "to finish; be over; complete"
+  },
+  {
+    "Number": 107,
+    "chinese": "玩",
+    "pinyin": "wán",
+    "english": "to play; have a good time; visit; enjoy"
+  },
+  {
+    "Number": 108,
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "english": "evening; night"
+  },
+  {
+    "Number": 109,
+    "chinese": "往",
+    "pinyin": "wǎng",
+    "english": "to go (in a direction); towards; in the past"
+  },
+  {
+    "Number": 110,
+    "chinese": "为什么",
+    "pinyin": "wèishénme",
+    "english": "why?; for what reason?"
+  },
+  {
+    "Number": 111,
+    "chinese": "问",
+    "pinyin": "wèn",
+    "english": "ask; inquire"
+  },
+  {
+    "Number": 112,
+    "chinese": "问题",
+    "pinyin": "wèntí",
+    "english": "question; problem"
+  },
+  {
+    "Number": 113,
+    "chinese": "西瓜",
+    "pinyin": "xīguā",
+    "english": "watermelon"
+  },
+  {
+    "Number": 114,
+    "chinese": "希望",
+    "pinyin": "xīwàng",
+    "english": "to hope; wish for; to desire"
+  },
+  {
+    "Number": 115,
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "english": "to wash; bathe"
+  },
+  {
+    "Number": 116,
+    "chinese": "小时",
+    "pinyin": "xiǎoshí",
+    "english": "hour"
+  },
+  {
+    "Number": 117,
+    "chinese": "笑",
+    "pinyin": "xiào",
+    "english": "to laugh; to smile"
+  },
+  {
+    "Number": 118,
+    "chinese": "新",
+    "pinyin": "xīn",
+    "english": "new; Xinjiang autonomous region (abbreviation)"
+  },
+  {
+    "Number": 119,
+    "chinese": "姓",
+    "pinyin": "xìng",
+    "english": "surname; family name"
+  },
+  {
+    "Number": 120,
+    "chinese": "休息",
+    "pinyin": "xiūxi",
+    "english": "to rest; take a break"
+  },
+  {
+    "Number": 121,
+    "chinese": "雪",
+    "pinyin": "xuě",
+    "english": "snow"
+  },
+  {
+    "Number": 122,
+    "chinese": "颜色",
+    "pinyin": "yánsè",
+    "english": "color"
+  },
+  {
+    "Number": 123,
+    "chinese": "眼睛",
+    "pinyin": "yǎnjing",
+    "english": "eye"
+  },
+  {
+    "Number": 124,
+    "chinese": "羊肉",
+    "pinyin": "yángròu",
+    "english": "mutton; lamb"
+  },
+  {
+    "Number": 125,
+    "chinese": "药",
+    "pinyin": "yào",
+    "english": "medicine; drug; cure; chemical"
+  },
+  {
+    "Number": 126,
+    "chinese": "要",
+    "pinyin": "yào",
+    "english": "to want; to need; will/shall; important"
+  },
+  {
+    "Number": 127,
+    "chinese": "也",
+    "pinyin": "yě",
+    "english": "also; too"
+  },
+  {
+    "Number": 128,
+    "chinese": "一起",
+    "pinyin": "yìqǐ",
+    "english": "together; in the same place"
+  },
+  {
+    "Number": 129,
+    "chinese": "一下",
+    "pinyin": "yíxià",
+    "english": "a little bit/while; one time; once"
+  },
+  {
+    "Number": 130,
+    "chinese": "已经",
+    "pinyin": "yǐjing",
+    "english": "already"
+  },
+  {
+    "Number": 131,
+    "chinese": "意思",
+    "pinyin": "yìsi",
+    "english": "meaning; idea; opinion"
+  },
+  {
+    "Number": 132,
+    "chinese": "因为",
+    "pinyin": "yīnwèi",
+    "english": "because"
+  },
+  {
+    "Number": 133,
+    "chinese": "所以",
+    "pinyin": "suǒyǐ",
+    "english": "so; therefore; as a result"
+  },
+  {
+    "Number": 134,
+    "chinese": "阴",
+    "pinyin": "yīn",
+    "english": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade"
+  },
+  {
+    "Number": 135,
+    "chinese": "游泳",
+    "pinyin": "yóuyǒng",
+    "english": "to swim"
+  },
+  {
+    "Number": 136,
+    "chinese": "右边",
+    "pinyin": "yòubian",
+    "english": "the right (as opposed to left) side"
+  },
+  {
+    "Number": 137,
+    "chinese": "鱼",
+    "pinyin": "yú",
+    "english": "fish (Kangxi radical 195)"
+  },
+  {
+    "Number": 138,
+    "chinese": "远",
+    "pinyin": "yuǎn",
+    "english": "far; distant; remote"
+  },
+  {
+    "Number": 139,
+    "chinese": "运动",
+    "pinyin": "yùndòng",
+    "english": "(physical) exercise; movement; sports; campaign"
+  },
+  {
+    "Number": 140,
+    "chinese": "再",
+    "pinyin": "zài",
+    "english": "again; once more"
+  },
+  {
+    "Number": 141,
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "english": "(early) morning"
+  },
+  {
+    "Number": 142,
+    "chinese": "丈夫",
+    "pinyin": "zhàngfu",
+    "english": "husband; man"
+  },
+  {
+    "Number": 143,
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "english": "try to find; look for; seek; to give change"
+  },
+  {
+    "Number": 144,
+    "chinese": "着",
+    "pinyin": "zhe",
+    "english": "-ing (indicating action in progress)"
+  },
+  {
+    "Number": 145,
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "english": "real; true; genuine"
+  },
+  {
+    "Number": 146,
+    "chinese": "正在",
+    "pinyin": "zhèngzài",
+    "english": "in the process of (doing something); currently"
+  },
+  {
+    "Number": 147,
+    "chinese": "知道",
+    "pinyin": "zhīdao",
+    "english": "know; be aware of"
+  },
+  {
+    "Number": 148,
+    "chinese": "准备",
+    "pinyin": "zhǔnbèi",
+    "english": "prepare; get ready"
+  },
+  {
+    "Number": 149,
+    "chinese": "走",
+    "pinyin": "zǒu",
+    "english": "to walk; to go; to move (Kangxi radical 156)"
+  },
+  {
+    "Number": 150,
+    "chinese": "最",
+    "pinyin": "zuì",
+    "english": "the most; -est; (indicator for superlative)"
+  },
+  {
+    "Number": 151,
+    "chinese": "左边",
+    "pinyin": "zuǒbian",
+    "english": "the left side; the left"
+  }
+],
+  "hsk3" : [
+  {
+    "Number": 1,
+    "chinese": "阿姨",
+    "pinyin": "āyí",
+    "english": "auntie; step-mother; mother's younger sister"
+  },
+  {
+    "Number": 2,
+    "chinese": "啊",
+    "pinyin": "a",
+    "english": "ah; (particle showing elation, doubt, puzzled surprise, or approval)"
+  },
+  {
+    "Number": 3,
+    "chinese": "矮",
+    "pinyin": "ǎi",
+    "english": "short; low"
+  },
+  {
+    "Number": 4,
+    "chinese": "爱好",
+    "pinyin": "àihào",
+    "english": "hobby; fond of; to like; interest"
+  },
+  {
+    "Number": 5,
+    "chinese": "安静",
+    "pinyin": "ānjìng",
+    "english": "quiet; peaceful; calm"
+  },
+  {
+    "Number": 6,
+    "chinese": "把",
+    "pinyin": "bǎ",
+    "english": "(mw for things with handles); (pretransitive particle); to hold"
+  },
+  {
+    "Number": 7,
+    "chinese": "班",
+    "pinyin": "bān",
+    "english": "team; class; squad"
+  },
+  {
+    "Number": 8,
+    "chinese": "搬",
+    "pinyin": "bān",
+    "english": "to move; to transport"
+  },
+  {
+    "Number": 9,
+    "chinese": "办法",
+    "pinyin": "bànfǎ",
+    "english": "method; way (of doing something)"
+  },
+  {
+    "Number": 10,
+    "chinese": "办公室",
+    "pinyin": "bàngōngshì",
+    "english": "office"
+  },
+  {
+    "Number": 11,
+    "chinese": "半",
+    "pinyin": "bàn",
+    "english": "half; semi-; incomplete"
+  },
+  {
+    "Number": 12,
+    "chinese": "帮忙",
+    "pinyin": "bāngmáng",
+    "english": "to help"
+  },
+  {
+    "Number": 13,
+    "chinese": "包",
+    "pinyin": "bāo",
+    "english": "to cover; to wrap; to hold; include; (mw for containers, packages, etc.)"
+  },
+  {
+    "Number": 14,
+    "chinese": "饱",
+    "pinyin": "bǎo",
+    "english": "eat until full; satisfied"
+  },
+  {
+    "Number": 15,
+    "chinese": "北方",
+    "pinyin": "běifāng",
+    "english": "north; the northern part of the country"
+  },
+  {
+    "Number": 16,
+    "chinese": "被",
+    "pinyin": "bèi",
+    "english": "by (indicates passive voice sentences); a quilt/blanket"
+  },
+  {
+    "Number": 17,
+    "chinese": "鼻子",
+    "pinyin": "bízi",
+    "english": "nose"
+  },
+  {
+    "Number": 18,
+    "chinese": "比较",
+    "pinyin": "bǐjiào",
+    "english": "compare; contrast; relatively"
+  },
+  {
+    "Number": 19,
+    "chinese": "比赛",
+    "pinyin": "bǐsài",
+    "english": "(sports) match; competition"
+  },
+  {
+    "Number": 20,
+    "chinese": "笔记本",
+    "pinyin": "bǐjìběn",
+    "english": "notebook"
+  },
+  {
+    "Number": 21,
+    "chinese": "必须",
+    "pinyin": "bìxū",
+    "english": "must; have to"
+  },
+  {
+    "Number": 22,
+    "chinese": "变化",
+    "pinyin": "biànhuà",
+    "english": "change"
+  },
+  {
+    "Number": 23,
+    "chinese": "别人",
+    "pinyin": "biéren",
+    "english": "other people; others"
+  },
+  {
+    "Number": 24,
+    "chinese": "冰箱",
+    "pinyin": "bīngxiāng",
+    "english": "refrigerator"
+  },
+  {
+    "Number": 25,
+    "chinese": "不但",
+    "pinyin": "búdàn",
+    "english": "not only"
+  },
+  {
+    "Number": 26,
+    "chinese": "而且",
+    "pinyin": "érqiě",
+    "english": "moreover; in addition; as well as"
+  },
+  {
+    "Number": 27,
+    "chinese": "菜单",
+    "pinyin": "càidān",
+    "english": "menu"
+  },
+  {
+    "Number": 28,
+    "chinese": "参加",
+    "pinyin": "cānjiā",
+    "english": "participate; join; take part in"
+  },
+  {
+    "Number": 29,
+    "chinese": "草",
+    "pinyin": "cǎo",
+    "english": "grass; straw; draft (of a document)"
+  },
+  {
+    "Number": 30,
+    "chinese": "层",
+    "pinyin": "céng",
+    "english": "(mw for layers, floors of buildings)"
+  },
+  {
+    "Number": 31,
+    "chinese": "差",
+    "pinyin": "chà",
+    "english": "differ from; fall short of; poor; inferior"
+  },
+  {
+    "Number": 32,
+    "chinese": "超市",
+    "pinyin": "chāoshì",
+    "english": "supermarket"
+  },
+  {
+    "Number": 33,
+    "chinese": "衬衫",
+    "pinyin": "chènshān",
+    "english": "shirt; blouse"
+  },
+  {
+    "Number": 34,
+    "chinese": "成绩",
+    "pinyin": "chéngjì",
+    "english": "achievement; success; results (of work or study)"
+  },
+  {
+    "Number": 35,
+    "chinese": "城市",
+    "pinyin": "chéngshì",
+    "english": "city or town"
+  },
+  {
+    "Number": 36,
+    "chinese": "迟到",
+    "pinyin": "chídào",
+    "english": "arrive late"
+  },
+  {
+    "Number": 37,
+    "chinese": "除了",
+    "pinyin": "chúle",
+    "english": "besides; except for; aside from; in addition to"
+  },
+  {
+    "Number": 38,
+    "chinese": "船",
+    "pinyin": "chuán",
+    "english": "a boat; vessel; ship"
+  },
+  {
+    "Number": 39,
+    "chinese": "春",
+    "pinyin": "chūn",
+    "english": "spring (season); joyful"
+  },
+  {
+    "Number": 40,
+    "chinese": "词典",
+    "pinyin": "cídiǎn",
+    "english": "dictionary"
+  },
+  {
+    "Number": 41,
+    "chinese": "聪明",
+    "pinyin": "cōngming",
+    "english": "intelligent; clever; bright; smart"
+  },
+  {
+    "Number": 42,
+    "chinese": "打扫",
+    "pinyin": "dǎsǎo",
+    "english": "to clean; to sweep"
+  },
+  {
+    "Number": 43,
+    "chinese": "打算",
+    "pinyin": "dǎsuàn",
+    "english": "to plan; intend"
+  },
+  {
+    "Number": 44,
+    "chinese": "带",
+    "pinyin": "dài",
+    "english": "band; belt; ribbon; carry; bring; take along; bring up (kids)"
+  },
+  {
+    "Number": 45,
+    "chinese": "担心",
+    "pinyin": "dānxīn",
+    "english": "to worry; feel anxious"
+  },
+  {
+    "Number": 46,
+    "chinese": "蛋糕",
+    "pinyin": "dàngāo",
+    "english": "cake"
+  },
+  {
+    "Number": 47,
+    "chinese": "当然",
+    "pinyin": "dāngrán",
+    "english": "of course; naturally"
+  },
+  {
+    "Number": 48,
+    "chinese": "地",
+    "pinyin": "dì, de",
+    "english": "earth; ground | (adverbial particle)"
+  },
+  {
+    "Number": 49,
+    "chinese": "灯",
+    "pinyin": "dēng",
+    "english": "lamp; light"
+  },
+  {
+    "Number": 50,
+    "chinese": "地方",
+    "pinyin": "dìfang",
+    "english": "place; space; room; part, (fāng: local; regional)"
+  },
+  {
+    "Number": 51,
+    "chinese": "地铁",
+    "pinyin": "dìtiě",
+    "english": "subway"
+  },
+  {
+    "Number": 52,
+    "chinese": "地图",
+    "pinyin": "dìtú",
+    "english": "map"
+  },
+  {
+    "Number": 53,
+    "chinese": "电梯",
+    "pinyin": "diàntī",
+    "english": "elevator"
+  },
+  {
+    "Number": 54,
+    "chinese": "电子邮件",
+    "pinyin": "diànzǐ yóujiàn",
+    "english": "email"
+  },
+  {
+    "Number": 55,
+    "chinese": "东",
+    "pinyin": "dōng",
+    "english": "East"
+  },
+  {
+    "Number": 56,
+    "chinese": "冬",
+    "pinyin": "dōng",
+    "english": "winter"
+  },
+  {
+    "Number": 57,
+    "chinese": "动物",
+    "pinyin": "dòngwù",
+    "english": "animal"
+  },
+  {
+    "Number": 58,
+    "chinese": "短",
+    "pinyin": "duǎn",
+    "english": "short (in length, duration, or height); lack"
+  },
+  {
+    "Number": 59,
+    "chinese": "段",
+    "pinyin": "duàn",
+    "english": "paragraph; segment; section"
+  },
+  {
+    "Number": 60,
+    "chinese": "锻炼",
+    "pinyin": "duànliàn",
+    "english": "to exercise; work out; toughen; to temper"
+  },
+  {
+    "Number": 61,
+    "chinese": "多么",
+    "pinyin": "duōme",
+    "english": "how (wonderful, etc.); what (a great idea)"
+  },
+  {
+    "Number": 62,
+    "chinese": "饿",
+    "pinyin": "è",
+    "english": "hungry"
+  },
+  {
+    "Number": 63,
+    "chinese": "耳朵",
+    "pinyin": "ěrduo",
+    "english": "ear"
+  },
+  {
+    "Number": 64,
+    "chinese": "发",
+    "pinyin": "fā, fà",
+    "english": "send out; to issue; to show (one's feelings) | hair"
+  },
+  {
+    "Number": 65,
+    "chinese": "发烧",
+    "pinyin": "fāshāo",
+    "english": "have a fever"
+  },
+  {
+    "Number": 66,
+    "chinese": "发现",
+    "pinyin": "fāxiàn",
+    "english": "discover; to find"
+  },
+  {
+    "Number": 67,
+    "chinese": "方便",
+    "pinyin": "fāngbiàn",
+    "english": "convenient"
+  },
+  {
+    "Number": 68,
+    "chinese": "放",
+    "pinyin": "fàng",
+    "english": "put; to place; to release; to free"
+  },
+  {
+    "Number": 69,
+    "chinese": "放心",
+    "pinyin": "fàngxīn",
+    "english": "relax; feel relieved; rest assured"
+  },
+  {
+    "Number": 70,
+    "chinese": "分",
+    "pinyin": "fēn, fèn",
+    "english": "divide; part; minute; cent | component; share; ingredient"
+  },
+  {
+    "Number": 71,
+    "chinese": "附近",
+    "pinyin": "fùjìn",
+    "english": "(in the) vicinity; nearby; neighboring"
+  },
+  {
+    "Number": 72,
+    "chinese": "复习",
+    "pinyin": "fùxí",
+    "english": "revise; to review"
+  },
+  {
+    "Number": 73,
+    "chinese": "干净",
+    "pinyin": "gānjìng",
+    "english": "clean; neat and tidy"
+  },
+  {
+    "Number": 74,
+    "chinese": "感冒",
+    "pinyin": "gǎnmào",
+    "english": "catch cold; (common) cold"
+  },
+  {
+    "Number": 75,
+    "chinese": "感兴趣",
+    "pinyin": "gǎn xìngqù",
+    "english": "be interested in"
+  },
+  {
+    "Number": 76,
+    "chinese": "刚才",
+    "pinyin": "gāngcái",
+    "english": "just now; a moment ago"
+  },
+  {
+    "Number": 77,
+    "chinese": "个子",
+    "pinyin": "gèzi",
+    "english": "height; stature; build"
+  },
+  {
+    "Number": 78,
+    "chinese": "根据",
+    "pinyin": "gēnjù",
+    "english": "according to; based on; basis"
+  },
+  {
+    "Number": 79,
+    "chinese": "跟",
+    "pinyin": "gēn",
+    "english": "to follow; go with; heel"
+  },
+  {
+    "Number": 80,
+    "chinese": "更",
+    "pinyin": "gèng",
+    "english": "more; even more"
+  },
+  {
+    "Number": 81,
+    "chinese": "公斤",
+    "pinyin": "gōngjīn",
+    "english": "kilogram"
+  },
+  {
+    "Number": 82,
+    "chinese": "公园",
+    "pinyin": "gōngyuán",
+    "english": "public park"
+  },
+  {
+    "Number": 83,
+    "chinese": "故事",
+    "pinyin": "gùshi",
+    "english": "story; tale"
+  },
+  {
+    "Number": 84,
+    "chinese": "刮风",
+    "pinyin": "guāfēng",
+    "english": "windy; to blow (wind)"
+  },
+  {
+    "Number": 85,
+    "chinese": "关",
+    "pinyin": "guān",
+    "english": "to close; shut; concern; relationship; turn off; mountain pass"
+  },
+  {
+    "Number": 86,
+    "chinese": "关系",
+    "pinyin": "guānxi",
+    "english": "relation; to concern"
+  },
+  {
+    "Number": 87,
+    "chinese": "关心",
+    "pinyin": "guānxīn",
+    "english": "concerned about/with"
+  },
+  {
+    "Number": 88,
+    "chinese": "关于",
+    "pinyin": "guānyú",
+    "english": "about; regarding; concerning"
+  },
+  {
+    "Number": 89,
+    "chinese": "国家",
+    "pinyin": "guójiā",
+    "english": "country; state; nation"
+  },
+  {
+    "Number": 90,
+    "chinese": "过",
+    "pinyin": "guò",
+    "english": "to pass; to cross; go over; (indicates a past experience)"
+  },
+  {
+    "Number": 91,
+    "chinese": "过去",
+    "pinyin": "guòqù",
+    "english": "in the past; formerly"
+  },
+  {
+    "Number": 92,
+    "chinese": "还是",
+    "pinyin": "háishi",
+    "english": "or; still; nevertheless; had better"
+  },
+  {
+    "Number": 93,
+    "chinese": "害怕",
+    "pinyin": "hàipà",
+    "english": "afraid of; to fear"
+  },
+  {
+    "Number": 94,
+    "chinese": "黑板",
+    "pinyin": "hēibǎn",
+    "english": "blackboard"
+  },
+  {
+    "Number": 95,
+    "chinese": "后来",
+    "pinyin": "hòulái",
+    "english": "afterwards; after; later"
+  },
+  {
+    "Number": 96,
+    "chinese": "护照",
+    "pinyin": "hùzhào",
+    "english": "passport"
+  },
+  {
+    "Number": 97,
+    "chinese": "花",
+    "pinyin": "huā",
+    "english": "flower; blossom; spend money; cost"
+  },
+  {
+    "Number": 98,
+    "chinese": "画",
+    "pinyin": "huà",
+    "english": "draw; picture; painting"
+  },
+  {
+    "Number": 99,
+    "chinese": "坏",
+    "pinyin": "huài",
+    "english": "bad; broken"
+  },
+  {
+    "Number": 100,
+    "chinese": "欢迎",
+    "pinyin": "huānyíng",
+    "english": "to welcome; greet"
+  },
+  {
+    "Number": 101,
+    "chinese": "还",
+    "pinyin": "hái",
+    "english": "still; yet; in addition; even"
+  },
+  {
+    "Number": 102,
+    "chinese": "环境",
+    "pinyin": "huánjìng",
+    "english": "environment; surroundings"
+  },
+  {
+    "Number": 103,
+    "chinese": "换",
+    "pinyin": "huàn",
+    "english": "change; to exchange; to barter; to trade"
+  },
+  {
+    "Number": 104,
+    "chinese": "黄河",
+    "pinyin": "huánghé",
+    "english": "Yellow River"
+  },
+  {
+    "Number": 105,
+    "chinese": "回答",
+    "pinyin": "huídá",
+    "english": "to reply; to answer"
+  },
+  {
+    "Number": 106,
+    "chinese": "会议",
+    "pinyin": "huìyì",
+    "english": "meeting; conference"
+  },
+  {
+    "Number": 107,
+    "chinese": "或者",
+    "pinyin": "huòzhě",
+    "english": "or; possible; maybe; perhaps"
+  },
+  {
+    "Number": 108,
+    "chinese": "几乎",
+    "pinyin": "jīhū",
+    "english": "almost"
+  },
+  {
+    "Number": 109,
+    "chinese": "机会",
+    "pinyin": "jīhuì",
+    "english": "opportunity; chance; occasion"
+  },
+  {
+    "Number": 110,
+    "chinese": "极",
+    "pinyin": "jí",
+    "english": "an extreme; pole; very"
+  },
+  {
+    "Number": 111,
+    "chinese": "记得",
+    "pinyin": "jìde",
+    "english": "remember"
+  },
+  {
+    "Number": 112,
+    "chinese": "季节",
+    "pinyin": "jìjié",
+    "english": "season; time; period"
+  },
+  {
+    "Number": 113,
+    "chinese": "检查",
+    "pinyin": "jiǎnchá",
+    "english": "to check; examine; inspect"
+  },
+  {
+    "Number": 114,
+    "chinese": "简单",
+    "pinyin": "jiǎndān",
+    "english": "simple; not complicated"
+  },
+  {
+    "Number": 115,
+    "chinese": "见面",
+    "pinyin": "jiànmiàn",
+    "english": "meet/see somebody; meeting"
+  },
+  {
+    "Number": 116,
+    "chinese": "健康",
+    "pinyin": "jiànkāng",
+    "english": "health; healthy"
+  },
+  {
+    "Number": 117,
+    "chinese": "讲",
+    "pinyin": "jiǎng",
+    "english": "to talk; to lecture; to explain; a speech"
+  },
+  {
+    "Number": 118,
+    "chinese": "教",
+    "pinyin": "jiāo, jiào",
+    "english": "teach; instruct | religion; teaching"
+  },
+  {
+    "Number": 119,
+    "chinese": "角",
+    "pinyin": "jiǎo, jué",
+    "english": "horn; angle; unit of money (1/10 yuan); corner (Kangxi radical 148) | role (theater)"
+  },
+  {
+    "Number": 120,
+    "chinese": "脚",
+    "pinyin": "jiǎo",
+    "english": "foot (body part)"
+  },
+  {
+    "Number": 121,
+    "chinese": "接",
+    "pinyin": "jiē",
+    "english": "connect; to meet; to pick up (somebody); to receive"
+  },
+  {
+    "Number": 122,
+    "chinese": "街道",
+    "pinyin": "jiēdào",
+    "english": "street"
+  },
+  {
+    "Number": 123,
+    "chinese": "节目",
+    "pinyin": "jiémù",
+    "english": "program; item (on a program)"
+  },
+  {
+    "Number": 124,
+    "chinese": "节日",
+    "pinyin": "jiérì",
+    "english": "holiday; festival"
+  },
+  {
+    "Number": 125,
+    "chinese": "结婚",
+    "pinyin": "jiéhūn",
+    "english": "get married"
+  },
+  {
+    "Number": 126,
+    "chinese": "结束",
+    "pinyin": "jiéshù",
+    "english": "to end; to finish; conclude"
+  },
+  {
+    "Number": 127,
+    "chinese": "解决",
+    "pinyin": "jiějué",
+    "english": "settle (a dispute); resolve; solve"
+  },
+  {
+    "Number": 128,
+    "chinese": "借",
+    "pinyin": "jiè",
+    "english": "lend; borrow; excuse"
+  },
+  {
+    "Number": 129,
+    "chinese": "经常",
+    "pinyin": "jīngcháng",
+    "english": "often; frequently; daily"
+  },
+  {
+    "Number": 130,
+    "chinese": "经过",
+    "pinyin": "jīngguò",
+    "english": "to pass; go through; as a result of"
+  },
+  {
+    "Number": 131,
+    "chinese": "经理",
+    "pinyin": "jīnglǐ",
+    "english": "manager; director"
+  },
+  {
+    "Number": 132,
+    "chinese": "久",
+    "pinyin": "jiǔ",
+    "english": "long (time)"
+  },
+  {
+    "Number": 133,
+    "chinese": "旧",
+    "pinyin": "jiù",
+    "english": "old; past; used"
+  },
+  {
+    "Number": 134,
+    "chinese": "句子",
+    "pinyin": "jùzi",
+    "english": "sentence"
+  },
+  {
+    "Number": 135,
+    "chinese": "决定",
+    "pinyin": "juédìng",
+    "english": "decide; resolve"
+  },
+  {
+    "Number": 136,
+    "chinese": "可爱",
+    "pinyin": "kě'ài",
+    "english": "cute; lovely"
+  },
+  {
+    "Number": 137,
+    "chinese": "渴",
+    "pinyin": "kě",
+    "english": "thirsty"
+  },
+  {
+    "Number": 138,
+    "chinese": "刻",
+    "pinyin": "kè",
+    "english": "quarter (hour); (mw for short time intervals); carve; to cut"
+  },
+  {
+    "Number": 139,
+    "chinese": "客人",
+    "pinyin": "kèrén",
+    "english": "guest; customer"
+  },
+  {
+    "Number": 140,
+    "chinese": "空调",
+    "pinyin": "kōngtiáo",
+    "english": "air conditioning"
+  },
+  {
+    "Number": 141,
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "english": "mouth (Kangxi radical 30)"
+  },
+  {
+    "Number": 142,
+    "chinese": "哭",
+    "pinyin": "kū",
+    "english": "cry; weep"
+  },
+  {
+    "Number": 143,
+    "chinese": "裤子",
+    "pinyin": "kùzi",
+    "english": "pants; trousers"
+  },
+  {
+    "Number": 144,
+    "chinese": "筷子",
+    "pinyin": "kuàizi",
+    "english": "chopsticks"
+  },
+  {
+    "Number": 145,
+    "chinese": "蓝",
+    "pinyin": "lán",
+    "english": "blue"
+  },
+  {
+    "Number": 146,
+    "chinese": "老",
+    "pinyin": "lǎo",
+    "english": "old; aged; tough; often (Kangxi radical 125)"
+  },
+  {
+    "Number": 147,
+    "chinese": "离开",
+    "pinyin": "líkāi",
+    "english": "leave; depart"
+  },
+  {
+    "Number": 148,
+    "chinese": "礼物",
+    "pinyin": "lǐwù",
+    "english": "gift; present"
+  },
+  {
+    "Number": 149,
+    "chinese": "历史",
+    "pinyin": "lìshǐ",
+    "english": "history"
+  },
+  {
+    "Number": 150,
+    "chinese": "脸",
+    "pinyin": "liǎn",
+    "english": "face"
+  },
+  {
+    "Number": 151,
+    "chinese": "练习",
+    "pinyin": "liànxí",
+    "english": "practice; exercise"
+  },
+  {
+    "Number": 152,
+    "chinese": "辆",
+    "pinyin": "liàng",
+    "english": "(mw for vehicles)"
+  },
+  {
+    "Number": 153,
+    "chinese": "聊天",
+    "pinyin": "liáotiān",
+    "english": "to chat"
+  },
+  {
+    "Number": 154,
+    "chinese": "了解",
+    "pinyin": "liǎojiě",
+    "english": "comprehend; understand; know; find out"
+  },
+  {
+    "Number": 155,
+    "chinese": "邻居",
+    "pinyin": "línjū",
+    "english": "neighbor"
+  },
+  {
+    "Number": 156,
+    "chinese": "留学",
+    "pinyin": "liúxué",
+    "english": "study abroad"
+  },
+  {
+    "Number": 157,
+    "chinese": "楼",
+    "pinyin": "lóu",
+    "english": "story; floor; (multi-story) building"
+  },
+  {
+    "Number": 158,
+    "chinese": "绿",
+    "pinyin": "lǜ",
+    "english": "green"
+  },
+  {
+    "Number": 159,
+    "chinese": "马",
+    "pinyin": "mǎ",
+    "english": "horse (Kangxi radical 187)"
+  },
+  {
+    "Number": 160,
+    "chinese": "马上",
+    "pinyin": "mǎshàng",
+    "english": "at once; immediately; right away"
+  },
+  {
+    "Number": 161,
+    "chinese": "满意",
+    "pinyin": "mǎnyì",
+    "english": "satisfied; pleased"
+  },
+  {
+    "Number": 162,
+    "chinese": "帽子",
+    "pinyin": "màozi",
+    "english": "hat; cap"
+  },
+  {
+    "Number": 163,
+    "chinese": "米",
+    "pinyin": "mǐ",
+    "english": "rice; meter (Kangxi radical 119)"
+  },
+  {
+    "Number": 164,
+    "chinese": "面包",
+    "pinyin": "miànbāo",
+    "english": "bread"
+  },
+  {
+    "Number": 165,
+    "chinese": "明白",
+    "pinyin": "míngbai",
+    "english": "clear; obvious; understand; explicit"
+  },
+  {
+    "Number": 166,
+    "chinese": "拿",
+    "pinyin": "ná",
+    "english": "carry in your hand; seize; to catch"
+  },
+  {
+    "Number": 167,
+    "chinese": "奶奶",
+    "pinyin": "nǎinai",
+    "english": "grandma; (informal) paternal grandmother"
+  },
+  {
+    "Number": 168,
+    "chinese": "南",
+    "pinyin": "nán",
+    "english": "South"
+  },
+  {
+    "Number": 169,
+    "chinese": "难",
+    "pinyin": "nán",
+    "english": "difficult"
+  },
+  {
+    "Number": 170,
+    "chinese": "难过",
+    "pinyin": "nánguò",
+    "english": "be grieved; be sad; have a hard time"
+  },
+  {
+    "Number": 171,
+    "chinese": "年级",
+    "pinyin": "niánjí",
+    "english": "grade; year (in school)"
+  },
+  {
+    "Number": 172,
+    "chinese": "年轻",
+    "pinyin": "niánqīng",
+    "english": "young"
+  },
+  {
+    "Number": 173,
+    "chinese": "鸟",
+    "pinyin": "niǎo",
+    "english": "bird (Kangxi radical 196)"
+  },
+  {
+    "Number": 174,
+    "chinese": "努力",
+    "pinyin": "nǔlì",
+    "english": "to work hard; to strive"
+  },
+  {
+    "Number": 175,
+    "chinese": "爬山",
+    "pinyin": "páshān",
+    "english": "mountain climbing"
+  },
+  {
+    "Number": 176,
+    "chinese": "盘子",
+    "pinyin": "pánzi",
+    "english": "plate; dish; tray"
+  },
+  {
+    "Number": 177,
+    "chinese": "胖",
+    "pinyin": "pàng",
+    "english": "fat; plump"
+  },
+  {
+    "Number": 178,
+    "chinese": "皮鞋",
+    "pinyin": "píxié",
+    "english": "leather shoes"
+  },
+  {
+    "Number": 179,
+    "chinese": "啤酒",
+    "pinyin": "píjiǔ",
+    "english": "beer"
+  },
+  {
+    "Number": 180,
+    "chinese": "瓶子",
+    "pinyin": "píngzi",
+    "english": "bottle"
+  },
+  {
+    "Number": 181,
+    "chinese": "其实",
+    "pinyin": "qíshí",
+    "english": "actually; in fact"
+  },
+  {
+    "Number": 182,
+    "chinese": "其他",
+    "pinyin": "qítā",
+    "english": "other; else"
+  },
+  {
+    "Number": 183,
+    "chinese": "奇怪",
+    "pinyin": "qíguài",
+    "english": "strange; odd"
+  },
+  {
+    "Number": 184,
+    "chinese": "骑",
+    "pinyin": "qí",
+    "english": "to ride (an animal or bike); to sit astride"
+  },
+  {
+    "Number": 185,
+    "chinese": "起飞",
+    "pinyin": "qǐfēi",
+    "english": "take off (in an airplane); liftoff"
+  },
+  {
+    "Number": 186,
+    "chinese": "起来",
+    "pinyin": "qǐlai",
+    "english": "(beginning or continuing an action); to rise; get up (from bed)"
+  },
+  {
+    "Number": 187,
+    "chinese": "清楚",
+    "pinyin": "qīngchu",
+    "english": "clear; distinct; be clear about"
+  },
+  {
+    "Number": 188,
+    "chinese": "请假",
+    "pinyin": "qǐngjià",
+    "english": "to ask for time off"
+  },
+  {
+    "Number": 189,
+    "chinese": "秋",
+    "pinyin": "qiū",
+    "english": "autumn; fall; harvest time"
+  },
+  {
+    "Number": 190,
+    "chinese": "裙子",
+    "pinyin": "qúnzi",
+    "english": "skirt"
+  },
+  {
+    "Number": 191,
+    "chinese": "然后",
+    "pinyin": "ránhòu",
+    "english": "then; afterwards"
+  },
+  {
+    "Number": 192,
+    "chinese": "热情",
+    "pinyin": "rèqíng",
+    "english": "cordial; warm; enthusiastic"
+  },
+  {
+    "Number": 193,
+    "chinese": "认为",
+    "pinyin": "rènwéi",
+    "english": "believe; think that"
+  },
+  {
+    "Number": 194,
+    "chinese": "认真",
+    "pinyin": "rènzhēn",
+    "english": "serious; earnest; take seriously"
+  },
+  {
+    "Number": 195,
+    "chinese": "容易",
+    "pinyin": "róngyì",
+    "english": "easy; likely; liable (to)"
+  },
+  {
+    "Number": 196,
+    "chinese": "如果",
+    "pinyin": "rúguǒ",
+    "english": "if; in the event that"
+  },
+  {
+    "Number": 197,
+    "chinese": "伞",
+    "pinyin": "sǎn",
+    "english": "umbrella; parasol"
+  },
+  {
+    "Number": 198,
+    "chinese": "上网",
+    "pinyin": "shàngwǎng",
+    "english": "to surf the web; to go online"
+  },
+  {
+    "Number": 199,
+    "chinese": "生气",
+    "pinyin": "shēngqì",
+    "english": "angry; mad"
+  },
+  {
+    "Number": 200,
+    "chinese": "声音",
+    "pinyin": "shēngyīn",
+    "english": "sound; voice"
+  },
+  {
+    "Number": 201,
+    "chinese": "世界",
+    "pinyin": "shìjiè",
+    "english": "world"
+  },
+  {
+    "Number": 202,
+    "chinese": "试",
+    "pinyin": "shì",
+    "english": "to try; to test; examination"
+  },
+  {
+    "Number": 203,
+    "chinese": "瘦",
+    "pinyin": "shòu",
+    "english": "thin; tight; lean"
+  },
+  {
+    "Number": 204,
+    "chinese": "叔叔",
+    "pinyin": "shūshu",
+    "english": "(informal) father's younger brother; uncle"
+  },
+  {
+    "Number": 205,
+    "chinese": "舒服",
+    "pinyin": "shūfu",
+    "english": "comfortable; feeling well"
+  },
+  {
+    "Number": 206,
+    "chinese": "树",
+    "pinyin": "shù",
+    "english": "tree"
+  },
+  {
+    "Number": 207,
+    "chinese": "数学",
+    "pinyin": "shùxué",
+    "english": "mathematics"
+  },
+  {
+    "Number": 208,
+    "chinese": "刷牙",
+    "pinyin": "shuāyá",
+    "english": "brush one's teeth"
+  },
+  {
+    "Number": 209,
+    "chinese": "双",
+    "pinyin": "shuāng",
+    "english": "two; double; (mw for pairs)"
+  },
+  {
+    "Number": 210,
+    "chinese": "水平",
+    "pinyin": "shuǐpíng",
+    "english": "level; standard; horizontal"
+  },
+  {
+    "Number": 211,
+    "chinese": "司机",
+    "pinyin": "sījī",
+    "english": "driver; chauffeur"
+  },
+  {
+    "Number": 212,
+    "chinese": "太阳",
+    "pinyin": "tàiyáng",
+    "english": "the sun"
+  },
+  {
+    "Number": 213,
+    "chinese": "特别",
+    "pinyin": "tèbié",
+    "english": "special; especially; particular"
+  },
+  {
+    "Number": 214,
+    "chinese": "疼",
+    "pinyin": "téng",
+    "english": "ache; sore; (it) hurts; love fondly"
+  },
+  {
+    "Number": 215,
+    "chinese": "提高",
+    "pinyin": "tígāo",
+    "english": "to raise; heighten; improve"
+  },
+  {
+    "Number": 216,
+    "chinese": "体育",
+    "pinyin": "tǐyù",
+    "english": "physical training; sports"
+  },
+  {
+    "Number": 217,
+    "chinese": "甜",
+    "pinyin": "tián",
+    "english": "sweet"
+  },
+  {
+    "Number": 218,
+    "chinese": "条",
+    "pinyin": "tiáo",
+    "english": "strip; (mw for long thin objects); item"
+  },
+  {
+    "Number": 219,
+    "chinese": "同事",
+    "pinyin": "tóngshì",
+    "english": "colleague; co-worker"
+  },
+  {
+    "Number": 220,
+    "chinese": "同意",
+    "pinyin": "tóngyì",
+    "english": "agree; to consent; approve"
+  },
+  {
+    "Number": 221,
+    "chinese": "头发",
+    "pinyin": "tóufa",
+    "english": "hair (on the head)"
+  },
+  {
+    "Number": 222,
+    "chinese": "突然",
+    "pinyin": "tūrán",
+    "english": "sudden; abrupt"
+  },
+  {
+    "Number": 223,
+    "chinese": "图书馆",
+    "pinyin": "túshūguǎn",
+    "english": "library"
+  },
+  {
+    "Number": 224,
+    "chinese": "腿",
+    "pinyin": "tuǐ",
+    "english": "leg"
+  },
+  {
+    "Number": 225,
+    "chinese": "完成",
+    "pinyin": "wánchéng",
+    "english": "to complete; accomplish; to fulfill"
+  },
+  {
+    "Number": 226,
+    "chinese": "碗",
+    "pinyin": "wǎn",
+    "english": "bowl; cup"
+  },
+  {
+    "Number": 227,
+    "chinese": "万",
+    "pinyin": "wàn",
+    "english": "ten thousand"
+  },
+  {
+    "Number": 228,
+    "chinese": "忘记",
+    "pinyin": "wàngjì",
+    "english": "forget"
+  },
+  {
+    "Number": 229,
+    "chinese": "为",
+    "pinyin": "wèi",
+    "english": "for; because of; to; for the sake of"
+  },
+  {
+    "Number": 230,
+    "chinese": "为了",
+    "pinyin": "wèile",
+    "english": "in order to; for the sake of; for the purpose of"
+  },
+  {
+    "Number": 231,
+    "chinese": "位",
+    "pinyin": "wèi",
+    "english": "position; location; (polite mw for people)"
+  },
+  {
+    "Number": 232,
+    "chinese": "文化",
+    "pinyin": "wénhuà",
+    "english": "culture; civilization"
+  },
+  {
+    "Number": 233,
+    "chinese": "西",
+    "pinyin": "xī",
+    "english": "West (Kangxi radical 146)"
+  },
+  {
+    "Number": 234,
+    "chinese": "习惯",
+    "pinyin": "xíguàn",
+    "english": "habit; be accustomed to; usual practice"
+  },
+  {
+    "Number": 235,
+    "chinese": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "english": "toilet; lavatory; washroom"
+  },
+  {
+    "Number": 236,
+    "chinese": "洗澡",
+    "pinyin": "xǐzǎo",
+    "english": "bathe; take a bath or shower; bath or shower"
+  },
+  {
+    "Number": 237,
+    "chinese": "夏",
+    "pinyin": "xià",
+    "english": "summer"
+  },
+  {
+    "Number": 238,
+    "chinese": "先",
+    "pinyin": "xiān",
+    "english": "first; early; before"
+  },
+  {
+    "Number": 239,
+    "chinese": "相信",
+    "pinyin": "xiāngxìn",
+    "english": "believe (sb.); be convinced of"
+  },
+  {
+    "Number": 240,
+    "chinese": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "english": "banana"
+  },
+  {
+    "Number": 241,
+    "chinese": "向",
+    "pinyin": "xiàng",
+    "english": "direction; towards; to turn; to face"
+  },
+  {
+    "Number": 242,
+    "chinese": "像",
+    "pinyin": "xiàng",
+    "english": "be like; resemble; appearance; appear"
+  },
+  {
+    "Number": 243,
+    "chinese": "小心",
+    "pinyin": "xiǎoxīn",
+    "english": "be careful"
+  },
+  {
+    "Number": 244,
+    "chinese": "校长",
+    "pinyin": "xiàozhǎng",
+    "english": "principal (of school, college or university); president; headmaster"
+  },
+  {
+    "Number": 245,
+    "chinese": "新闻",
+    "pinyin": "xīnwén",
+    "english": "news"
+  },
+  {
+    "Number": 246,
+    "chinese": "新鲜",
+    "pinyin": "xīnxiān",
+    "english": "fresh (experience, food, etc.); new; novel"
+  },
+  {
+    "Number": 247,
+    "chinese": "信用卡",
+    "pinyin": "xìnyòngkǎ",
+    "english": "credit card"
+  },
+  {
+    "Number": 248,
+    "chinese": "行李箱",
+    "pinyin": "xínglǐxiāng",
+    "english": "trunk; suitcase"
+  },
+  {
+    "Number": 249,
+    "chinese": "熊猫",
+    "pinyin": "xióngmāo",
+    "english": "panda"
+  },
+  {
+    "Number": 250,
+    "chinese": "需要",
+    "pinyin": "xūyào",
+    "english": "to need; to want; to demand"
+  },
+  {
+    "Number": 251,
+    "chinese": "选择",
+    "pinyin": "xuǎnzé",
+    "english": "select; to pick; choose"
+  },
+  {
+    "Number": 252,
+    "chinese": "要求",
+    "pinyin": "yāoqiú",
+    "english": "to request; to demand; requirement"
+  },
+  {
+    "Number": 253,
+    "chinese": "爷爷",
+    "pinyin": "yéye",
+    "english": "(informal) father's father; paternal grandfather"
+  },
+  {
+    "Number": 254,
+    "chinese": "一般",
+    "pinyin": "yìbān",
+    "english": "general; ordinary; common; same"
+  },
+  {
+    "Number": 255,
+    "chinese": "一边",
+    "pinyin": "yìbiān",
+    "english": "one side; on the one hand; at the same time"
+  },
+  {
+    "Number": 256,
+    "chinese": "一定",
+    "pinyin": "yídìng",
+    "english": "surely; certainly; necessarily; definite"
+  },
+  {
+    "Number": 257,
+    "chinese": "一共",
+    "pinyin": "yígòng",
+    "english": "altogether; in total"
+  },
+  {
+    "Number": 258,
+    "chinese": "一会儿",
+    "pinyin": "yíhuìr",
+    "english": "a while; a moment"
+  },
+  {
+    "Number": 259,
+    "chinese": "一样",
+    "pinyin": "yíyàng",
+    "english": "the same; alike; equal to"
+  },
+  {
+    "Number": 260,
+    "chinese": "一直",
+    "pinyin": "yìzhí",
+    "english": "always; all along; straight (in a straight line)"
+  },
+  {
+    "Number": 261,
+    "chinese": "以前",
+    "pinyin": "yǐqián",
+    "english": "before; formerly; previous"
+  },
+  {
+    "Number": 262,
+    "chinese": "音乐",
+    "pinyin": "yīnyuè",
+    "english": "music"
+  },
+  {
+    "Number": 263,
+    "chinese": "银行",
+    "pinyin": "yínháng",
+    "english": "bank"
+  },
+  {
+    "Number": 264,
+    "chinese": "饮料",
+    "pinyin": "yǐnliào",
+    "english": "beverage; drink"
+  },
+  {
+    "Number": 265,
+    "chinese": "应该",
+    "pinyin": "yīnggāi",
+    "english": "should; ought to; must"
+  },
+  {
+    "Number": 266,
+    "chinese": "影响",
+    "pinyin": "yǐngxiǎng",
+    "english": "influence; affect; effect"
+  },
+  {
+    "Number": 267,
+    "chinese": "用",
+    "pinyin": "yòng",
+    "english": "to use (Kangxi radical 101)"
+  },
+  {
+    "Number": 268,
+    "chinese": "游戏",
+    "pinyin": "yóuxì",
+    "english": "game; play; recreation"
+  },
+  {
+    "Number": 269,
+    "chinese": "有名",
+    "pinyin": "yǒumíng",
+    "english": "famous; well-known"
+  },
+  {
+    "Number": 270,
+    "chinese": "又",
+    "pinyin": "yòu",
+    "english": "(once) again; also; both (Kangxi radical 29)"
+  },
+  {
+    "Number": 271,
+    "chinese": "遇到",
+    "pinyin": "yùdào",
+    "english": "to meet; run into; come across"
+  },
+  {
+    "Number": 272,
+    "chinese": "元",
+    "pinyin": "yuán",
+    "english": "chinese monetary unit; dollar; first; principal"
+  },
+  {
+    "Number": 273,
+    "chinese": "愿意",
+    "pinyin": "yuànyì",
+    "english": "be willing; want to; be ready"
+  },
+  {
+    "Number": 274,
+    "chinese": "月亮",
+    "pinyin": "yuèliang",
+    "english": "the moon"
+  },
+  {
+    "Number": 275,
+    "chinese": "越",
+    "pinyin": "yuè",
+    "english": "even more; the more; exceed"
+  },
+  {
+    "Number": 276,
+    "chinese": "站",
+    "pinyin": "zhàn",
+    "english": "stand; a station; be on one's feet; service center"
+  },
+  {
+    "Number": 277,
+    "chinese": "张",
+    "pinyin": "zhāng",
+    "english": "(mw for flat objects); to spread out; (common surname)"
+  },
+  {
+    "Number": 278,
+    "chinese": "长",
+    "pinyin": "cháng, zhǎng",
+    "english": "long; length | grow; chief (Kangxi radical 168)"
+  },
+  {
+    "Number": 279,
+    "chinese": "着急",
+    "pinyin": "zháojí",
+    "english": "to worry; feel anxious"
+  },
+  {
+    "Number": 280,
+    "chinese": "照顾",
+    "pinyin": "zhàogu",
+    "english": "take care of; look after; give consideration"
+  },
+  {
+    "Number": 281,
+    "chinese": "照片",
+    "pinyin": "zhàopiàn",
+    "english": "picture; photograph"
+  },
+  {
+    "Number": 282,
+    "chinese": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "english": "camera"
+  },
+  {
+    "Number": 283,
+    "chinese": "只",
+    "pinyin": "zhī, zhǐ",
+    "english": "but; only; merely; just | (mw for birds and certain animals)"
+  },
+  {
+    "Number": 284,
+    "chinese": "只有",
+    "pinyin": "zhǐyǒu",
+    "english": "only"
+  },
+  {
+    "Number": 285,
+    "chinese": "才",
+    "pinyin": "cái",
+    "english": "ability; talent; just now; not until"
+  },
+  {
+    "Number": 286,
+    "chinese": "中间",
+    "pinyin": "zhōngjiān",
+    "english": "center; middle; between; among"
+  },
+  {
+    "Number": 287,
+    "chinese": "中文",
+    "pinyin": "Zhōngwén",
+    "english": "chinese (language)"
+  },
+  {
+    "Number": 288,
+    "chinese": "终于",
+    "pinyin": "zhōngyú",
+    "english": "at last; in the end; finally"
+  },
+  {
+    "Number": 289,
+    "chinese": "种",
+    "pinyin": "zhǒng",
+    "english": "type; breed; race; seed"
+  },
+  {
+    "Number": 290,
+    "chinese": "重要",
+    "pinyin": "zhòngyào",
+    "english": "important; significant; major"
+  },
+  {
+    "Number": 291,
+    "chinese": "周末",
+    "pinyin": "zhōumò",
+    "english": "weekend"
+  },
+  {
+    "Number": 292,
+    "chinese": "主要",
+    "pinyin": "zhǔyào",
+    "english": "main; principal; major"
+  },
+  {
+    "Number": 293,
+    "chinese": "注意",
+    "pinyin": "zhùyì",
+    "english": "pay attention to; take notice of; be careful"
+  },
+  {
+    "Number": 294,
+    "chinese": "自己",
+    "pinyin": "zìjǐ",
+    "english": "oneself; self"
+  },
+  {
+    "Number": 295,
+    "chinese": "自行车",
+    "pinyin": "zìxíngchē",
+    "english": "bike; bicycle"
+  },
+  {
+    "Number": 296,
+    "chinese": "总是",
+    "pinyin": "zǒngshì",
+    "english": "always; eventually"
+  },
+  {
+    "Number": 297,
+    "chinese": "嘴",
+    "pinyin": "zuǐ",
+    "english": "mouth"
+  },
+  {
+    "Number": 298,
+    "chinese": "最后",
+    "pinyin": "zuìhòu",
+    "english": "last; final; ultimately"
+  },
+  {
+    "Number": 299,
+    "chinese": "最近",
+    "pinyin": "zuìjìn",
+    "english": "recently; lately; these days"
+  },
+  {
+    "Number": 300,
+    "chinese": "作业",
+    "pinyin": "zuòyè",
+    "english": "school assignment; homework; task"
+  }
+]
+}
