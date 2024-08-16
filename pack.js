@@ -36,12 +36,12 @@ async function getData() {
     english.innerHTML = packID[i].english;
 }
 
-let j = 0;
+
 function nextCard() {
-    j++;
-    character.innerHTML = packID[j].chinese;
-    pinyin.innerHTML = packID[j].pinyin;
-    english.innerHTML = packID[j].english;
+    i = Math.floor(Math.random() * packID.length -1);
+    character.innerHTML = packID[i].chinese;
+    pinyin.innerHTML = packID[i].pinyin;
+    english.innerHTML = packID[i].english;
 }
 
 //Flip Card

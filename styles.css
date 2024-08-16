@@ -106,7 +106,7 @@ h2 {
 .cardBack p {
     margin: 5px;
 }
-button {
+.nextButton {
     width: 300px;
     height: 50px;
     background-color: white;
@@ -116,6 +116,10 @@ button {
     font-size: 20px;
     margin: 20px;
     cursor: pointer;
+    transition: background-color ease 0.2s;
+}
+.nextButton:hover {
+    background-color: rgb(238, 240, 233);
 }
 /*FOOTER*/
 footer {
