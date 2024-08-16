@@ -4,6 +4,8 @@
             <title>Jiayou Mandarin - HSK I</title>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta propery="og:title" content="Jiayou Mandarin>
+            <meta property="og:image" content="assets/images/preview.jpg">
             <link href="styles.css" rel="stylesheet">
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,19 +14,20 @@
         </head>
         <body onload="getData()">
             <header>
-                <h1>Jiayou Mandarin</h1>
-                <img id="menuButton" src="assets/icons/menu.svg" alt="menu-button">
+                <a href="index.html"><h1>Jiayou Mandarin</h1></a>
+                <img id="menuButton" src="assets/icons/menu.svg" alt="menu-button" onclick="openMenu()">
             </header>
             <main>
+                <div id="wallMenu"></div>
                 <h2>HSK I</h2>
                 <p id="pack-ID"style="display: none">hsk1</p>
                 <div id="card" class="card" onclick="flipCard()"><!--CARD-->
                     <div class="cardFront">
-                        <p id="character" class="character hanzi">空</p>
+                        <p id="character" class="character hanzi"></p>
                     </div>
                     <div class="cardBack">
-                        <p id="pinyin">kōng</p>
-                        <p id="english">empty</p>
+                        <p id="pinyin"></p>
+                        <p id="english"></p>
                     </div>
                 </div>
                 <button class="nextButton" onclick="nextCard()">
@@ -33,8 +36,10 @@
             </main>
             <footer>
                 <p>©Dark Nebula</p>
+                <img src="assets/icons/zaitama.svg" alt="ZG" onclick="openPage('https://zachgenest.ca')">
             </footer>
             <script type="text/javascript" src="pack.js"></script>
+            <script type="text/javascript" src="index.js"></script>
             <script type="application/json" src="packs.json"></script>
         </body>
     </html>

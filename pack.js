@@ -1,3 +1,5 @@
+
+
 let hsk1 = [];
 let hsk2 = [];
 let hsk3 = [];
@@ -37,12 +39,6 @@ async function getData() {
 }
 
 
-function nextCard() {
-    i = Math.floor(Math.random() * packID.length -1);
-    character.innerHTML = packID[i].chinese;
-    pinyin.innerHTML = packID[i].pinyin;
-    english.innerHTML = packID[i].english;
-}
 
 //Flip Card
 let flipped = false;
@@ -56,4 +52,18 @@ function flipCard() {
         card.style.transform = "rotateY(0deg)";
         flipped =  false;
     }
+}
+
+async function nextCard() {
+    if (flipped == true) {
+        card.style.transform = "rotateY(0deg)";
+        flipped =  false;
+    }
+    setTimeout(function() {
+        i = Math.floor(Math.random() * packID.length -1)
+        character.innerHTML = packID[i].chinese;
+        pinyin.innerHTML = packID[i].pinyin;
+        english.innerHTML = packID[i].english;
+    },100);  
+    
 }

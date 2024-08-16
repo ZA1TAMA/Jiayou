@@ -4,18 +4,21 @@
             <title>Jiayou Mandarin</title>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta propery="og:title" content="Jiayou Mandarin>
+            <meta property="og:image" content="assets/images/preview.jpg">
             <link href="styles.css" rel="stylesheet">
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
             <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
             <link href="assets/icons/yinyang.png" type="image/x-icon" rel="icon">
-        </head>
-        <body>
+        </head> 
+        <body>      
             <header>
-                <h1>Jiayou Mandarin</h1>
-                <img id="menuButton" src="assets/icons/menu.svg" alt="menu-button">
+                <a href="index.html"><h1>Jiayou Mandarin</h1></a>
+                <img id="menuButton" src="assets/icons/menu.svg" alt="menu-button" onclick="openMenu()">
             </header>
             <main>
+                <div id="wallMenu"></div>
                 <h2>Pick a deck!</h2>
                 <div class="packList">
                     <div class="pack" onclick="openPack('hsk1')">
@@ -31,6 +34,7 @@
             </main>
             <footer>
                 <p>©Dark Nebula</p>
+                <img src="assets/icons/zaitama.svg" alt="ZG" onclick="openPage('https://zachgenest.ca')">
             </footer>
             <script type="text/javascript" src="index.js"></script>
             <script type="application/json" src="packs.json"></script>
